@@ -15,7 +15,7 @@ Description: Cursor IDE for GhostFreakOS
 Package: zenshell
 Version: 1.0.0-1ghostos1
 Architecture: amd64
-Maintainer: GhostFreak <ghostfreakinc@gmail.com>
+Maintainer: GhostFreak <ghostfreak@ghostfreakos.com>
 Installed-Size: 192
 Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), liblua5.3-0, libreadline8t64 (>= 6.0), libstdc++6 (>= 13.1), libreadline8, liblua5.4-0
 Filename: pool/main/z/zenshell/zenshell_1.0.0-1ghostos1_amd64.deb
