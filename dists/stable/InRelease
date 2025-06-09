@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Origin: GhostRepo\nLabel: GhostRepo\nSuite: stable\nVersion: 1.0\nCodename: stable\nArchitectures: amd64 i386\nComponents: main\nDescription: GhostRepo APT Repository\nDate: Mon, 09 Jun 2025 05:55:06 +0300
 Date: Mon, 09 Jun 2025 02:55:06 +0000
 MD5Sum:
@@ -20,3 +23,17 @@ SHA512:
  78c13787a3772423891ef3345cad5b514a594686b20cbc47e6b527e5e37f0ce29be20f6406f2ba22768764dd33a5907eb04290eaf772674085df18135a0d810d             1322 main/binary-amd64/Packages
  6567ad0db18a4111d31b478365e6a3fa47e8ebef2b78d60eadb20e5a3b9f9fc9695105ff0acacabe62a845e3fb9a61f5ebc91faed1665e577604070f544b8e15              722 main/binary-amd64/Packages.gz
  79170af2d72fe3320bd1c3c4622945443f42d276bf0ff11a552255504db8735ebb71804081ece4d388fa2a3254917e814e75759294f3a230f014480e7e141075               69 main/binary-i386/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEJxU7g+rVk1uxaoWtHnAl97EVH6UFAmhGTQoACgkQHnAl97EV
+H6WQQwwAxKgO6Y4eJJT2vEfjOF5AL348Wbo0yYnRqEnrkXv7YmgtNVW8DAn+zTQW
+JGTvNxCwmEBOEJbDX0XgQge9kDNnL/No8ib0W6v2ci9Aq5JDP+6av2q+BuKQ8PyR
+UMgd8vadk872gjY8rvZqGMtPD6Y0ykK7mGlM2rECwiOlB0+0vjkd7JAYH3d5bME3
+zd/wWAHXR/551e07yt73u4Q6GgLecI8W9EryG8C7OqxOUWmfRp8dmZa1sgAnZ+K0
+9eSECRpj1oV9Jr5mFlY1qrPoMGTuDhic7k/WhcFKbntGLbZ5rUySrec8Chz2nQxp
+b2z0amvPixZMUCyQ32HdA4AAo0u0RM0aRjvhvDCaPLm0SKhccXPsaXPuuLF0x5Le
+a0rjBOEstUDSvSH9KzThbPwP1FtApHP5hmQIb2fbTOF8doyczRWjiEQt/QUhc2Gp
+PE3ywQfV2CwmerjJvu7IXiBOO48r5l4f37lcFNaXjIEK6sXYyr5ez/md806PyvwY
++E2B57fG
+=KLNt
+-----END PGP SIGNATURE-----
