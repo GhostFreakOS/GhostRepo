@@ -1,22 +1,25 @@
-Origin: GhostRepo\nLabel: GhostRepo\nSuite: stable\nVersion: 1.0\nCodename: stable\nArchitectures: amd64 i386\nComponents: main\nDescription: GhostRepo APT Repository\nDate: Mon, 09 Jun 2025 05:55:06 +0300
-Date: Mon, 09 Jun 2025 02:55:06 +0000
+Date: Mon, 09 Jun 2025 02:57:18 +0000
 MD5Sum:
- aa3f1912081ae9b0a205f5c4a24a1c15              244 Release
- 9d23d152ceae8a18c65701541fb86340             1322 main/binary-amd64/Packages
- 47cf40346bf217fb0ad07d8ac48fec6a              722 main/binary-amd64/Packages.gz
- ba721a3e1b13593038ca80e8eb50c4a1               69 main/binary-i386/Packages
+ 87ffb1b31aa36d1d72c15b174d3a54b6               38 Release
+ 4444e620dc81f2d98e68de62f5892739             1608 main/binary-amd64/Packages
+ 3d33815dfaca8f9496ac255310f70031              894 main/binary-amd64/Packages.gz
+ 68b329da9893e34099c7d8ad5cb9c940                1 main/binary-i386/Packages
+ c0668d5835b0381df1fec9092f3ed3b5               30 main/binary-i386/Packages.gz
 SHA1:
- 59a2f8ed0e371b3f311534bc7f0bbb2c68605dd3              244 Release
- 622adcf8d8661553f2253a2f22c8fa8bb28f26d8             1322 main/binary-amd64/Packages
- 1b1379d13daf13a195115bc06f4edf855ddf8645              722 main/binary-amd64/Packages.gz
- e6ebdf174f6ad3360fb782912d5c137bb3976c98               69 main/binary-i386/Packages
+ ee83f6d0abc4453ca5a7fd8bb3a5bfe256ce17fc               38 Release
+ ce29da3f58dbacea31c5fce92b3513f82919d437             1608 main/binary-amd64/Packages
+ abb5b2ecf5da26f0cc04d5b5948ab6dea713643d              894 main/binary-amd64/Packages.gz
+ adc83b19e793491b1c6ea0fd8b46cd9f32e592fc                1 main/binary-i386/Packages
+ f2550277bbc04e38a3bada8f33a31aac39b57984               30 main/binary-i386/Packages.gz
 SHA256:
- 54b7c7a461a226b7a12f4abb7cd21b1f8ae1990573480beb4f5003edc5b75c5d              244 Release
- 651b3299959a0787a668246647fe7547bae175ec3daaa0aabe56e85f845ef943             1322 main/binary-amd64/Packages
- 181fb5e7a923e409e943145652e63cf2becf8d6eaaaace92a2cffcfa171a2709              722 main/binary-amd64/Packages.gz
- cde9e8b978a828084dea6134ef5f3e27ddfae1e0ee9e79025001d2a272aece8f               69 main/binary-i386/Packages
+ 55c11f01464e42afadcb1f8589ad3aaa9ab4962fedf3c752659bc7bb4ac42106               38 Release
+ a012cd3180982aa03d9ac6e756c385fea1caded33d418bfd3d962651d1d3392d             1608 main/binary-amd64/Packages
+ 24acb5efd66b158e3d8d28156c7bc3ed9a426526c6f1702a978bb6dd758b15f0              894 main/binary-amd64/Packages.gz
+ 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b                1 main/binary-i386/Packages
+ 247a8b2256aaa6b0e9fb729a56fc78b07dee6a5abd586d924e4b61e8e1e2cb49               30 main/binary-i386/Packages.gz
 SHA512:
- d2171ca9b665d6a88d7010de11d39ae9c69d8047be082aa53743bd814e1599408b7604bfae729cc900d67d8c1d22bd7f9db4b1f13915bf42cb334b183cd6ae79              244 Release
- 78c13787a3772423891ef3345cad5b514a594686b20cbc47e6b527e5e37f0ce29be20f6406f2ba22768764dd33a5907eb04290eaf772674085df18135a0d810d             1322 main/binary-amd64/Packages
- 6567ad0db18a4111d31b478365e6a3fa47e8ebef2b78d60eadb20e5a3b9f9fc9695105ff0acacabe62a845e3fb9a61f5ebc91faed1665e577604070f544b8e15              722 main/binary-amd64/Packages.gz
- 79170af2d72fe3320bd1c3c4622945443f42d276bf0ff11a552255504db8735ebb71804081ece4d388fa2a3254917e814e75759294f3a230f014480e7e141075               69 main/binary-i386/Packages
+ 346c0e10561ed9067e45ebf0684dda3e1a3dc0b45533e92248bc2414d42a55ef4780b650f076ec0abe7a7796c9b60c6984cf650075092bb2b9626e45b021e50f               38 Release
+ 1e58637952963d528c161f6d07ddb90ef4208c5ea9fe3c0a46f0d6e667be11b203114abcea6ccf3ca95db8ef575fb2a3b1bbe0a2f6696b6d6a755d3d93447ea2             1608 main/binary-amd64/Packages
+ 731b8272b8c2d5a2de6430d1a11a2fe0cf3482db0e2ce4b058f1e4388605c786c755f27acd3eaf58b12238ceac4c1e0ff207214d0984f7321b8b226b120d3905              894 main/binary-amd64/Packages.gz
+ be688838ca8686e5c90689bf2ab585cef1137c999b48c70b92f67a5c34dc15697b5d11c982ed6d71be1e1e7f7b4e0733884aa97c3f7a339a8ed03577cf74be09                1 main/binary-i386/Packages
+ a02d9e6378d9b9c745ed1ed27faa06595e98bb311b4e49b1cb5b372cc257cd2162a8a30e50cb57e02af5db420df32732cfa9349723162f6cd151091e1a2d662e               30 main/binary-i386/Packages.gz
