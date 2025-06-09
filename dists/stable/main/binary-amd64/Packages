@@ -1,0 +1,32 @@
+Package: cursor
+Version: 1.0.0-1ghostos1
+Architecture: amd64
+Maintainer: GhostFreak Team <hi@cursor.com>
+Filename: pool/main/c/cursor_1.0.0-1ghostos1_amd64.deb
+Size: 189951482
+MD5sum: 464f7742e59d6722782ea294650d8827
+SHA1: 2109b6b820f3c15d48445d6568969860283dc08b
+SHA256: c85c1d5c7c10bc42b1bee3196a30bc232f920b80213ee2dd6467f6e0551c5d88
+Section: editors
+Priority: optional
+Description: Cursor IDE for GhostFreakOS
+ Cursor is a modern IDE for developers, customized for GhostFreakOS.
+
+Package: zenshell
+Version: 1.0.0-1ghostos1
+Architecture: amd64
+Maintainer: GhostFreak <ghostfreak@ghostfreakos.com>
+Installed-Size: 192
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), liblua5.3-0, libreadline8t64 (>= 6.0), libstdc++6 (>= 13.1), libreadline8, liblua5.4-0
+Filename: pool/main/z/zenshell/zenshell_1.0.0-1ghostos1_amd64.deb
+Size: 66242
+MD5sum: f152eadce0a7ed717e37b0f3aba08027
+SHA1: b14512eaa52f03cd73e5c4ee4ca0cbfdfd5e1fe0
+SHA256: 9fea6fe6f411bb1057ca847d0feb02d22f634caf462f8bde762c06e82faf4da7
+Section: shells
+Priority: optional
+Description: Zen Shell - A modern shell with Lua scripting support
+ Zen Shell is a modern command-line shell that combines the power of traditional
+ shells with Lua scripting capabilities. It provides an intuitive interface and
+ enhanced functionality for both interactive use and scripting.
+
